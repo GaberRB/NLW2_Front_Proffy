@@ -11,7 +11,7 @@ Web http://localhost:3000 <br>
 
 <h3>Proffy Layout</h3>
 
-<img src=""/>
+<img src="https://user-images.githubusercontent.com/28874479/89735301-e946a900-da37-11ea-80aa-6787b151cbe3.gif"/>
 
 <h4> Tecnologias utilizadas : </h4> 
 
